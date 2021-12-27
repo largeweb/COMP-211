@@ -1,0 +1,6 @@
+a simple text file with a couple long paragraphs
+would like to see how the program will truncate this
+sjdkfjhsdkjfhkjshdfkjhskdjfhkjshdfkjshdjkfhskdjhfkjshdfksjhkdjfhksjdhfkjshdfkjhsdjkfhskjdhfksdfksdfkjshdfkjhsdkfsdf
+sdjkfhksjdhfksjhdfkjhsdkjfhkjshfksjhdfkjshdkfjsdf. kjsdhfksj dhfkjsh dfkjhsdkjfh.s.jhd kfjhsjkdh fj jkhsd fk.dh.skjd.djfh ks
+khdfkjs.sdjf ksjkhdfkjs.dj kjsh fkjdhk jsdhfk hskjdhkfjhskjdhfkjs d.fh s.kdjfhskjdhfksjhdkfjh skdjfh.,sdfjkhsd kfjhsdkjfh.sdfkjh sdf
+ksjdhfkjshdfjkhskjdfh.sdf ksjdhfk.
